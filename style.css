@@ -18,3 +18,34 @@ body {
     color: rgb(225, 140, 36);
     text-align: center;
 }
+.name{
+    margin: 20px;
+}
+
+.mail{
+    margin: 20px;
+}
+
+.pass{
+    margin: 20px;
+}
+
+.confrm{
+    margin: 20px;
+}
+ .gender{
+    margin: 20px;
+ }
+
+ .date{
+    margin: 20px;
+ }
+ .country{
+    margin: 10px;
+ }
+ .chk {
+    margin: 10px;
+ }
+ .btn {
+    margin: 10px;
+ }
