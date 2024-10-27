@@ -12,14 +12,17 @@ body {
     margin: auto;
     margin-top: 80px;
     border-radius: 10px;
+    box-sizing: border-box;
 }
 
 .title {
-    color: rgb(225, 140, 36);
+    color: rgb(244, 143, 20);
     text-align: center;
+    padding-top: 30px;
 }
 .name{
     margin: 20px;
+    width: 60px;
 }
 
 .mail{
