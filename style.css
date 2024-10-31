@@ -4,6 +4,9 @@
 }
 body {
     background-color: rgba(219, 160, 89, 0.91);
+    height: 100vh;
+    display: flex;
+    color: rgb(109, 127, 57);
 }
 .conteiner {
     background-color: rgb(225, 213, 213);
@@ -17,11 +20,16 @@ body {
 
 .title {
     color: rgb(244, 143, 20);
-    text-align: center;
-    padding-top: 30px;
+    margin-left: 50px;
+margin-top: 20px;
+margin-right: 60px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     background-color: black;
-    border-radius: 12px;
-   padding-top: 6px;
+    border-radius: 15px;
+    
+  
   
 }
 .name{
@@ -71,6 +79,7 @@ body {
    text-align: center;
     background-color: rgba(232, 160, 16, 0.974);
     border-radius: 9px;
+    color: blue;
     
  }
 
