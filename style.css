@@ -4,8 +4,8 @@
 }
 body {
     background-color: rgba(219, 160, 89, 0.91);
-    height: 100vh;
-    display: flex;
+    
+    
     color: rgb(109, 127, 57);
 }
 .conteiner {
@@ -20,10 +20,11 @@ body {
 
 .title {
     color: rgb(244, 143, 20);
-    margin-left: 50px;
-margin-top: 20px;
-margin-right: 60px;
-    padding-left: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+    
+    padding-left: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
     background-color: black;
